@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 export default class BadMatch extends Component{
+  // refactor to make this a funcitonal component
   render(){
     return (
       <div>
